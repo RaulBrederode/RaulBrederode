@@ -3,5 +3,5 @@
 - 🌱 Atualmente estou aprendendo Python e Java, com conexões para banco de dados SQL.
 - 📫 How to reach me: raulbrederode@gmail.com
 - 😄 Pronouns: Ele / Dele
-- ⚡ Fun fact: Comecei a gostar de programação quando vi vários bugs em sites e plataformas de trabalho e quis descobrir como se criavam os sites e como melhorar eles.
+- ⚡ Fun fact: Comecei a gostar de programação quando vi vários bugs em sites e plataformas do trabalho e quis descobrir como se criavam os sites e como melhorar eles.
 
