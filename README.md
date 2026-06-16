@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Raul Miguel Souza Brederode, tenho 21 anos
+- 👋 Olá, me chamo Raul Miguel Souza Brederode, tenho 22 anos
 - 👀 Estou interessado em sempre estar por dentro de tudo que acontece no universo do back-end.
 - 🌱 Atualmente estou aprendendo Python e Java, com conexões para banco de dados SQL.
 - 📫 How to reach me: raulbrederode@gmail.com
